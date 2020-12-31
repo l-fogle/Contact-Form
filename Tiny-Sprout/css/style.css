@@ -272,6 +272,10 @@ ul {
     .footer-section {
       margin-bottom: 0;
     }
+
+    .footer .logo {
+      width: 40px;
+  }
 }
   
 .footer .logo {
@@ -302,7 +306,7 @@ ul {
 }
   
 @media(min-width: 768px) {
-    .footer-email-input {
+.footer-email-input {
       width: 57% !important;
 }
   
